@@ -18,7 +18,7 @@ const CreatePost = () =>{
 </div>
 
 <div className="mb-3">
-  <button type="submit" className ="btn btn-sm btn-primary" >Create Post</button>
+  <button type="submit" className ="btn btn-sm btn-success" >Create Post</button>
 </div>
 
       </div>
