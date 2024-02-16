@@ -1,5 +1,5 @@
 import { useContext, useEffect } from "react";
-import Post from "./Post";
+import Post from "./Post.jsx";
 import { PostList as PostListData } from "../store/Posts-Store.jsx"
 
 const Posts = () =>{
